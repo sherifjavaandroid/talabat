@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":google_map_location_picker" external.linked.project.path="$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-4.1.7/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.humazed.google_map_location_picker" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":google_map_location_picker" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.1.1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/google_map_location_picker/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/google_map_location_picker/intermediates/compile_r_class_jar/debug/R.jar:/Users/ambrosetemidayobako/Dev/mobile-apps/Fuodz/build/google_maps_flutter/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/ambrosetemidayobako/Dev/mobile-apps/Fuodz/build/geolocator/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/ambrosetemidayobako/Dev/mobile-apps/Fuodz/build/android_intent/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/ambrosetemidayobako/Dev/mobile-apps/Fuodz/build/package_info/intermediates/compile_library_classes_jar/debug/classes.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/6b51a99f7dd6fadb4ab3c1a535ca55f5/jetified-flutter_embedding_debug-1.0.0-241c87ad800beeab545ab867354d4683d5bfb6ce.jar:/Users/ambrosetemidayobako/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/eeac8e90a801621621a2961a699c3860/fragment-1.1.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/50388eeb052074d7beacd2e17f1681a6/jetified-activity-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/da8dd426db2e10efb9c19a2e5e0b8dc4/viewpager-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/2e1f27c8ecb770e5a1d8907158337b9f/loader-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/edf233e6429fade77e3060916a4390ce/customview-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/36be7141a7637856b115c34c94f0b5f8/core-1.1.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/1e973d862aac7034458f8610e258a542/lifecycle-runtime-2.2.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/23d0213c257fddd835f8abe7eb0147fe/jetified-savedstate-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/d533d6aed03bdc769ba4357de097ccd8/lifecycle-livedata-2.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/7d3cbb2bcfb26ba74b871b056bf9506e/lifecycle-livedata-core-2.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/a84894fe38e111fb1b8b254e698fc8b8/core-runtime-2.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/fa86dbd9b8d5ee6b2f48cb1b944c4f00/versionedparcelable-1.1.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/a154e574b09b4170c04da6426e42a12a/lifecycle-viewmodel-2.1.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/74a909749bf55a5d32a1e9bce57dd133/jetified-kotlin-stdlib-jdk7-1.3.31.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/7c9c5a4d9da427a11db60cd419d9f653/jetified-kotlin-stdlib-1.3.31.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/e50f1691a7e9e44daae7e1932ff0e538/jetified-kotlin-stdlib-common-1.3.31.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/0708487e9d5de665617b1e9884ba222f/jetified-annotations-13.0.jar:/Users/ambrosetemidayobako/Library/Android/sdk/platforms/android-30/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="google_map_location_picker_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-4.1.7/android/src/main/res;file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-4.1.7/android/src/debug/res;file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-4.1.7/android/src/androidTest/res;file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-4.1.7/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-4.1.7/android">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-4.1.7/android/src/main/kotlin" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-4.1.7/android/.gradle" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/google_map_location_picker/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-241c87ad800beeab545ab867354d4683d5bfb6ce" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.31" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.31" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.31" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="module" module-name="android.google_maps_flutter" />
+    <orderEntry type="module" module-name="android.geolocator" />
+    <orderEntry type="module" module-name="android.android_intent" />
+    <orderEntry type="module" module-name="android.package_info" />
+  </component>
+</module>

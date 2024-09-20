@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_id" translatable="false">2021</string>
+    <string name="app_name">Glover</string>
+    <string name="facebook_app_id">1866950493512266</string>
+    <string name="fb_login_protocol_scheme">fb1866950493512266</string>
+    <string name="facebook_client_token">2c8423c28ff94421ac6a86a5956449af</string>
+</resources>

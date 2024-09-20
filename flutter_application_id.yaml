@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "online.edentech.fuodz"
+    name: "Glover"
+  ios:
+    id: "online.edentech.fuodz"
+    name: "Glover"

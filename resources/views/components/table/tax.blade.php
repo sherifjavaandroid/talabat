@@ -1,0 +1,1 @@
+{{ currencyFormat($model->tax ?? '') }}

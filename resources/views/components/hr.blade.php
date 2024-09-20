@@ -1,0 +1,1 @@
+<hr class="border-t border-gray-50" />

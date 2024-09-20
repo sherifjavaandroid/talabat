@@ -1,0 +1,1 @@
+<span class="mt-1 text-xs text-red-700">{{ $message }}</span>

@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300;
+    src: url(Rubik-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url(font/Rubik/Rubik-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+    src: url(font/Rubik/Rubik-Medium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 600;
+    src: url(font/Rubik/Rubik-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src: url(font/Rubik/Rubik-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 800;
+    src: url(font/Rubik/Rubik-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 900;
+    src: url(font/Rubik/Rubik-Black.ttf) format('truetype');
+}
+
+
+html,body {
+    font-family: 'Rubik', sans-serif !important;
+}
+
+.active-item{
+    background-color: #ffffff !important;
+}
+
+.inactive-item{
+    background-color: #e6e6e6 !important;
+    border-bottom: 1px solid rgb(196, 196, 196) !important;
+}
+
+.intl-tel-input {
+    width: 100% !important;
+}
+
+.iti {
+    width: 100% !important;
+}
+
+.iti.iti--allow-dropdown {
+    width: 100%
+}

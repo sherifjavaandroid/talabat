@@ -1,0 +1,1 @@
+<a href="{{ route('wallet.transactions') }}?filters[search]={{ $model->ref }}" class="hover:underline text-primary-600"> {{ $value ?? $model->ref ?? $model[$column->attribute] ??  '' }}</a>

@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "online.edentech.fuodzdeliveryboy"
+    name: "Glover Delivery Boy"
+  ios:
+    id: "online.edentech.fuodzdeliveryboy"
+    name: "Glover Delivery Boy"

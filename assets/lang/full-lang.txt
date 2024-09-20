@@ -1,0 +1,435 @@
+Background service
+Background notification to keep app running
+New Order Alert
+Pickup Location
+Chat with
+Chat with vendor
+Chat with driver
+Chat with customer
+Stationary Location
+You haven't move for a while now. You might have to move around/close to hotspot area to get orders
+Don't remind me again
+Invalid name
+Invalid email address
+Password must be more than 6 character
+is invalid
+%s is empty
+Change Password
+Please select payment account
+Request Payout
+Successful
+Edit Payment Account
+Successful
+Profile Update
+Forgot Password
+Invalid Phone Number
+Forgot Password
+Updated Successfully
+Login Failed
+New Payment Account
+Successful
+Delivery made easy
+Get notified as soon as an order is available for delivery
+Chat with vendor/customer
+Call/Chat with vendor/delivery boy for update about your order and more
+Earning
+You get commissions from every delivery made
+Order completed successfully
+Logout
+Logging out Please wait...
+Are you sure you want to logout?
+Rider Rating
+Topup Customer Wallet
+Topup Customer Wallet
+Press back again to close
+You are Online
+You are Offline
+Assigned
+Orders
+More
+Skip
+Done
+Next
+Loading Please wait...
+Forgot Password
+Phone Number
+Send OTP
+Welcome Back
+Login to continue
+Email
+Password
+Forgot Password ?
+Login
+Become a partner
+Notifications
+No Notifications
+You dont' have notifications yet. When you get notifications, they will appear here
+Assigned Orders
+Order Details
+Code
+Status
+Vendor
+Vendor Address
+Chat with vendor
+Customer
+Chat with customer
+Note
+Package Details
+Products
+Package Type
+Width
+Length
+Height
+Weight
+Past Orders
+Trip Details
+Code
+Pickup Address
+Dropoff Address
+Status
+Customer
+Long Press To Start
+Long Press To Complete
+Topup Customer Wallet
+Pickup Location
+Stop
+Deliver To
+Customer Order Pickup
+Payment Method
+Payment Status
+preparing
+pending
+request
+review
+failed
+cancelled
+successful
+ready
+delivered
+enroute
+Order Verification
+Photo
+Take a shot
+Submit
+Long press to submit
+Recipient Name
+Verification Code
+Order Verification
+Customer signature
+Submit
+Long press to submit
+Verification Code
+Please enter verification code provided by the customer.
+Verification Code
+Verification Code
+Verify
+Scan Verification Code
+Topup Customer Wallet
+Please enter amount to transfer from your account to customer wallet
+Amount
+Amount
+Transfer
+Cancel
+Edit Payment Account
+Account Name
+Account Number
+Instructions
+Active
+Save
+New Payment Account
+Account Name
+Account Number
+Instructions
+Active
+Save
+Payment Accounts
+New
+Change Password
+Current Password
+New Password
+Confirm New Password
+Update Password
+Edit Profile
+Name
+Email
+Phone
+Update Profile
+Settings
+Profile & App Settings
+Notifications
+Rate & Review
+Verison
+Privacy Policy
+Terms & Conditions
+Contact Us
+Language
+Copyright ©%s %s all right reserved
+Version
+New Order Alert
+Pickup Distance
+Trip Distance
+Accept
+Swipe to accept order
+Swipe to notify rider
+Message
+Pickup Address
+Dropoff Address
+Online
+Offline
+Wallet
+Total Balance
+Updated last at:
+Top-Up Wallet
+Wallet Transactions
+Welcome
+Something wrong
+Type here
+New Message from
+Verify your phone number
+Enter otp sent to your provided phone number
+Verify
+Background Location Permission
+This app collects location data to enable location fetching at the time of your online status, even when the app is in background
+Next
+Cancel
+Background Permission Request
+This app requires your background permission to enable app receive new order notification even when app is in background
+Next
+Cancel
+Earning
+Request Payout
+Request Payout
+Payment Account
+Amount
+Request Payout
+Close
+Location Permission Request
+requires your location permission to enable customer track your location when delivering their order
+Next
+Cancel
+New Order Alert
+Pickup Location
+Dropoff Location
+Delivery Fee
+Total
+Package Type
+Accept
+Swipe to accept order
+New Password
+Please enter account new password
+New Password
+Reset Password
+Location Permission
+This app requires your location permission to enable system search for assignable order within your location and also allow customer track your location when delivering their order
+Next
+Cancel
+Total
+Rate Rider
+Submit
+Top-Up Wallet
+Enter amount to top-up wallet with
+Amount
+Amount
+TOP-UP
+Select Image
+Remove
+Order Summary
+Subtotal
+Discount
+Delivery Fee
+Tax (%s)
+Driver Tip
+Total Amount
+Edit Profile
+Change Password
+Earning
+Wallet
+Payment Accounts
+Logout
+Order Payment
+Payment method
+Amount
+Instruction
+Please confirm you have collected order amount from customer. Once you confirm order will be marked as completed/delivered
+Yes, Collected
+%s Product(s)
+Contact Info
+Recipient Name
+Note
+Account Name
+Account Number
+Instructions
+You have to login to access profile and history
+Login
+Retry
+An error occured
+There was an error while processing your request. Please try again
+No Order
+When you are assigned an order, they will appear here
+Payment Account Not Found
+Please create a new payment account. This can be use to receive earning from the platform
+Permission denied
+Verified
+Verify stop
+Long press to confirm stop
+This app collects location data to enable system search for assignable order within your location and also allow customer track your location when delivering their order
+This app collects location data to enable system search for assignable order within your location and also allow customer track your location when delivering their order even when the app is closed or not in use.
+Permission Management
+Step:
+Select your preferred language
+Open
+Live support
+Permission Management
+App requires some permissions before it can work
+Delete Account
+You are about to delete your profile, please select an option below on why you are deleting your profile/account
+Enter you account password to confirm account deletion
+Password
+Submit
+Go online
+Go offline
+Searching for order
+Vehicle Type
+Vehicle Details
+Searching for order
+min
+Taxi Booking verification code is invalid
+Taxi Booking verification code
+Please enter customer trip booking code below to continue with trip
+Booking Code
+Taxi Booking verification code is invalid
+Verify
+Irrespective of order selected payment method, you are required to collect delivery fee from customer. Thank you
+Note:
+Nothing selected. Tap to select
+No Document selected
+Regular
+Taxi
+Name
+Email
+Phone
+Password
+Referral Code
+Driver Type
+Select Driver Type
+Documents
+I agree with
+terms and conditions
+Please confirm you have accepted our terms and conditions
+Sign Up
+Become a partner
+Fill form below to continue
+Name
+Email
+Phone
+Password
+Referral Code
+Driver Type
+Select Driver Type
+Vehicle Details
+Car Make
+Car Model
+Vehicle Type
+Select Vehicle Type
+Registration Number
+Color
+Documents
+I agree with
+terms and conditions
+Please confirm you have accepted our terms and conditions
+Sign Up
+Location service is disabled. Please enable it and try again
+Location permission denied permanetly. Please check on location permission on app settings
+This field cannot be empty
+This field must be numeric
+Invalid email address
+Faqs
+Accept
+Reject
+Order payment yet to be completed, hence you can't open order
+Switch To Taxi Driver
+Switch To Regular Driver
+Vehicle Details
+Manage Account
+Support
+Legal Documents
+New Vehicle
+New Vehicle
+Long press to switch vehicle
+Vehicle Update
+Vehicle updated, you will need to reload app for this to take effect
+Reload
+Fee
+Time
+mins
+Orders
+GO
+OFF
+Finance
+Vehicles
+Legal
+Legal Documents
+Support
+Faqs
+GO
+OFF
+Switch To Taxi Driver
+Awaiting New Order
+You will be notified when there is a new order
+Permission for overlay is not granted
+Go to settings
+Driver App
+Allow %s to display over other apps
+Allow %s to display over other apps in order to receive orders when you are using other apps or app is in background.
+Permission is permanently denied
+Permission denied
+In order to provide you with the best possible service, we need to access your location data. This will allow us to efficiently connect you with nearby riders, help you navigate to their pickup locations, and provide accurate arrival time estimates.
+To grant us permission to access your location, please tap \"Allow\" when prompted. If you prefer not to share your location, you can tap \"Deny\" and continue to use the app without this feature. However, this may impact your ability to receive trip requests and complete trips efficiently.
+In order to provide you with a seamless experience, we need to access your location data even when the app is not in use. This will allow us to offer personalized recommendations, send notifications about nearby events or promotions, and help you navigate your way to your destination.
+Rest assured that we take your privacy seriously and will only use your location data in accordance with our privacy policy. We will never sell or share your data with third parties.
+We need to draw over other apps on your device. This will allow us to offer features such as floating widgets, pop-up notifications, and other interactive elements.
+Unauthorized user access
+Document Request
+Document Request
+Pending Verification
+Your document is pending verification, once verified you will receive an email from us. Thank you
+Please select a document
+Reject Order
+Trip Fare
+Payouts
+Report
+Report exported successfully
+Open
+Payout Report
+No data to export
+Payment Account
+Date
+Amount
+Status
+No Payment Account
+When you add a payment account, it will appear here. You can add multiple payment accounts.
+Click the + button to add a payment account.
+needs your permission to access your photos to select a photo for your profile picture, or to upload order photos.
+We understand that your privacy is important, and we will not use your photos for any other purpose.
+You can change this permission in your device settings.
+needs your permission to access your camera to take a photo for your profile picture, or take order picture has proof of delivery.
+needs your permission to access your storage to select a document. We understand that your privacy is important, and we will not use your documents for any other purpose.
+Permission Already Granted
+review
+success
+successful
+Earnings
+Earned
+Commission
+Balance
+Home
+Home
+Rides
+Orders
+Report
+More
+Theme
+dark
+system
+light
+Active Orders

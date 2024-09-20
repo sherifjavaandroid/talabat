@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":map_launcher" external.linked.project.path="$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/map_launcher-1.1.3+1/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.alexmiller.map_launcher" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":map_launcher" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.6.3" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.6.3" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/map_launcher/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dc3453cba5266bce0e4b4a1cddc38fed/jetified-flutter_embedding_debug-1.0.0-890a5fca2e34db413be624fc83aeea8e61d42ce6.jar:/Users/ambrosetemidayobako/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/a06ed07e95a937ed53f0c0572b805ff2/fragment-1.1.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/e391c38cc254fe45135e5904ddb9647f/viewpager-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/047a6eeb92b087ff74f4e78216bc0a38/loader-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/10a9edcc65aea036312d050d98c9828a/jetified-activity-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/cee554fefe651d4ea47c16cd74e5dea4/customview-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/6f37737942e617b776c444c00dd13e6b/core-1.6.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/e856ea9f98adf6cb5f93ceb96484f33f/lifecycle-runtime-2.2.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/283e2cf4b9996553ceeb0b428617375f/jetified-savedstate-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/d4e25f6788e458c498dbab27b920faf9/lifecycle-livedata-2.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/e8ac4fb0949b5c57ff4db316452b3ef6/lifecycle-livedata-core-2.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/80535d5f7a118fbe4e79f5474e9c7549/core-runtime-2.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/545dfce408bccbce24bd08054dc0c04c/versionedparcelable-1.1.1-api.jar:/Users/ambrosetemidayobako/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/019022f742da67f99f552142794e36b5/lifecycle-viewmodel-2.1.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.2.0/57136ff68ee784c6e19db34ed4a175338fadfde1/annotation-1.2.0.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/31df9973a0df595f51d015daff825b54/jetified-annotation-experimental-1.1.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/1ee4c28db5553b6a48e7a951aad2b62e/jetified-tracing-1.0.0-api.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/e6100c1abbe8eae16fd1ea0e18a1c825/jetified-kotlin-stdlib-jdk7-1.3.50.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/b48da2c424d610c4e598777bd92bd065/jetified-kotlin-stdlib-1.3.50.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/76e1bec5e0771d626c8e722d35985053/jetified-kotlin-stdlib-common-1.3.50.jar:/Users/ambrosetemidayobako/.gradle/caches/transforms-2/files-2.1/782043705d39cfc9e2095ae28db5777a/jetified-annotations-13.0.jar:/Users/ambrosetemidayobako/Library/Android/sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="map_launcher_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/map_launcher-1.1.3+1/android/src/main/res;file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/map_launcher-1.1.3+1/android/src/debug/res;file://$MODULE_DIR$/../../../../build/map_launcher/generated/res/rs/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/map_launcher-1.1.3+1/android/src/androidTest/res;file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/map_launcher-1.1.3+1/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/map_launcher/generated/res/rs/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/map_launcher/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/map_launcher/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/map_launcher/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/map_launcher-1.1.3+1/android">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/map_launcher-1.1.3+1/android/src/main/kotlin" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/map_launcher-1.1.3+1/android/.gradle" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-890a5fca2e34db413be624fc83aeea8e61d42ce6" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.6.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.tracing:tracing:1.0.0@aar" level="project" />
+  </component>
+</module>

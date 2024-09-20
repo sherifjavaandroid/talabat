@@ -1,0 +1,497 @@
+Chat with
+Chat with vendor
+Chat with driver
+Invalid name
+Invalid email address
+Password must be more than 6 character
+is empty
+Change Password
+Update Product
+Profile Update
+Update Service
+Update Service
+Please select at least one photo for service
+Forgot Password
+Invalid Phone Number
+Login Failed
+Login Failed
+Type here
+Welcome
+Something wrong
+New Message from
+Profile Update
+Registration Failed
+Login Failed
+Logout
+Are you sure you want to logout?
+Logging out Please wait...
+Add to cart
+%s Added to cart
+Diifferent Vendor
+Are you sure you'd like to change vendors? Your current items in cart will be lost.
+Edit Profile
+Name
+Update Profile
+You have to login to access profile and history
+Login
+Reset Password
+Forgot Password
+Phone Number
+Send OTP
+Reset Password
+Invalid Phone Number
+New Password
+Reset Password
+Please enter account new password
+Retry
+An error occured
+There was an error while processing your request. Please try again
+Order Summary
+Subtotal
+Discount
+Delivery Fee
+Tax (%s)
+Total Amount
+Print
+Driver Tip
+Select Printer
+Ops something went wrong!. Please check that your bluetooth is ON
+Delivery Address
+Products
+Note
+Tax
+Total
+Products
+Vendor
+Orders
+More
+Pricing
+Press back again to close
+Services
+Welcome Back
+Login to continue
+Email
+Password
+Forgot Password ?
+Login
+OR
+Create An Account
+Become a partner
+No Notifications
+You dont' have notifications yet. When you get notifications, they will appear here
+Notifications
+Skip
+Next
+Done
+Take Orders
+Get notified as soon as an order is place
+Chat with driver/customer
+Call/Chat with driver/delivery boy for update about your order and more
+Earning
+See your earning increase with demand
+Order Details
+Deliver To
+Customer Order Pickup
+Status
+Payment Status
+Code
+Products
+Driver
+Note
+Chat with driver
+Customer
+Chat with customer
+Chat with
+Pickup Location
+Dropoff Location
+Package Details
+Width
+Length
+Height
+Weight
+Package Type
+Recipient Name
+Recipient Phone
+Rate The Vendor
+Call vendor
+Swipe To Complete
+Swipe To Start
+Edit
+Cancel
+Order Status
+You are about to change this order status to %s. Do you want to continue?
+cancelled
+No
+Yes
+Change Order Status
+Change
+pending
+preparing
+ready
+enroute
+failed
+delivered
+successful
+Assign Order
+Assign Order To:
+Online
+Offline
+Scheduled Date
+Scheduled Time
+Stop
+Select Printer
+Please enable bluetooth to print
+No devices
+Ops something went wrong!
+Contact Info
+Assign
+Service
+Category
+Delivery details
+Payment Method
+Orders
+%s Product(s)
+PAY FOR ORDER
+No Order
+When you place an order, they will appear here
+When you are assigned an order, they will appear here
+all
+cancelled
+pending
+ready
+preparing
+enroute
+failed
+delivered
+scheduled
+Select Image
+Remove
+Products
+Vendor
+Orders
+More
+Pricing
+Package Type Pricing
+Base Price
+Package Price
+Distance Price
+Auto Ready
+Extra fields
+Max booking days
+Activate
+Deactivate
+Are you sure you want to
+Status Update
+Deactivate
+Edit Package Type Pricing
+New Package Type Pricing
+Package Type
+Select Package Type
+Update Pricing
+Successful
+New Pricing
+New Package Type Pricing
+Package Type
+Select Package Type
+Save Pricing
+Products
+Search
+Deliverable
+Not Deliverable
+%s Items
+Options
+Available options attached to this product
+No Product
+All products will appear here
+New Product
+Deactivate
+Delete
+Name
+Description
+Price
+Discount Price
+Capacity
+Unit
+Package Count
+Available Qty
+Can be delivered
+Active
+Category
+Sub-Category
+Menus
+Save Product
+Delete Product
+Are you sure you want to delete
+Activate
+Deactivate
+Status Update
+Are you sure you want to
+Edit Product
+Settings
+Profile & App Settings
+Notifications
+Rate & Review
+Verison
+Privacy Policy
+Language
+Copyright ©%s %s all right reserved
+Copyright ©%s %s all right reserved
+Edit Profile
+Delivery Addresses
+Favourites
+Logout
+Earning
+Change Password
+Current Password
+New Password
+Confirm New Password
+Update Password
+Contact Us
+Join Us
+Create an account now
+Name
+Phone
+Password
+Create Account
+OR
+Already have an Account
+Verify your phone number
+Enter otp sent to your provided phone number
+Verify
+Registration Failed
+New Service
+Services
+Off
+Edit
+Delete
+Delete Service
+Are you sure you want to delete service?
+Edit Service
+Name
+Description
+Price
+Discount Price
+Active
+Category
+Per Hour
+Save
+New Service
+Save
+Please select at least one photo for service
+Loading Please wait...
+Invalid name
+Invalid email address
+Invalid Phone
+Invalid Phone Number
+Phone must be more than 9 digists
+Phone must be less than 14 digists
+Password must be more than 6 character
+%s is empty
+is empty
+Vendor Details
+Orders Report
+Weekly sales report
+Total Earnings \n(Currently)
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Mon
+Tue
+Wed
+Thur
+Fri
+Sat
+Sun
+Name
+Address
+Total Orders
+Open
+Close
+No Subscription
+Subscribed
+Your subscription has expired
+Subscribe
+Welcome
+How can I help you today?
+I want to:
+Send packages
+Send packages to anyone, anywhere at anytime
+Get Food/Grocery Delivery
+Order for food, grocery and more from nearby vendors
+Market
+Send Package
+Scan to login
+Toggle Flash
+Operation failed/cancelled
+Request Payout
+Payout
+Payment Accounts
+New Payment Account
+Edit Payment Account
+Account Name
+Account Number
+Instructions
+Select your preferred language
+New Payment Account Created successfully
+Disable
+Are you sure you want to disable this payment account?
+Enable
+Are you sure you want to enable this payment account?
+Yes
+Processing. Please wait...
+Payment account updated successful
+Payment account updated failed
+Payment Account updated successfully
+Live support
+Product Description
+Delete Account
+You are about to delete your profile, please select an option below on why you are deleting your profile/account
+Enter you account password to confirm account deletion
+Password
+Submit
+Backend
+Select photo(s)
+No Image/Photo selected
+Tap to Close
+Tap to Open
+Subscription Status
+Nothing selected. Tap to select
+No Document selected
+terms and conditions
+Please confirm you have accepted our terms and conditions
+Sign Up
+Become a partner
+Fill form below to continue
+Business Information
+Name
+Vendor Type
+Select Vendor Type
+Email
+Phone
+Documents
+Select the document of your choice
+Personal Information
+Name
+Email
+Phone
+Password
+I agree with
+Location Required
+Duration Type
+This field cannot be empty
+This field must be numeric
+Invalid email address
+Faqs
+Order payment yet to be completed, hence you can't open order
+Product Description
+Service Description
+This means all your data, including profile information, preferences, and activity history, will be permanently removed from our system. You won't be able to recover any of this information once the account deletion is complete.
+Deleting your account is permanent, and it cannot be undone.
+We're sorry to see you go, but we understand that sometimes things change. If you're sure you want to delete your account, we want to make the process as simple and straightforward as possible.
+Currenct Vendor
+Tap to switch
+List of vendors
+Please select a vendor to switch to
+Document Request
+Document Request
+Pending Verification
+Your document is pending verification, once verified you will receive an email from us. Thank you
+Please select a document
+Address
+Never miss a new order
+Please allow the app to draw over other apps to enable the app to show pop alert about new order when the app is in background.
+Payment Method
+Delivery Address
+Ok, Close popup
+New Order
+A new order has been placed
+Order Code
+Total
+Pickup Order
+Keep app running in background
+Please allow the app to run in background to enable the app to listen for new order when the app is in background.
+Open Order Details
+Fixed
+Hour
+Day
+Month
+Year
+Select a photo
+Tag
+Variations/Option Groups
+Required
+Multiple
+Add new option
+Add new Variation/Option Group
+Sales Report
+Sales
+Earnings
+Name
+Total Unit
+Total Amount
+Sales Report
+From
+To
+No data to export
+Report
+Report exported successfully
+Package Type
+Service
+No Payment Account
+When you add a payment account, it will appear here. You can add multiple payment accounts.
+Click the + button to add a payment account.
+needs your permission to access your photos to select a photo for your profile picture, or to upload order photos.
+We understand that your privacy is important, and we will not use your photos for any other purpose.
+You can change this permission in your device settings.
+needs your permission to access your camera to take a photo for your profile picture, or take order picture has proof of delivery.
+needs your permission to access your storage to select a document. We understand that your privacy is important, and we will not use your documents for any other purpose.
+Sales
+Earnings
+Date
+Earned
+Commission
+Balance
+Package Type
+Service
+Product
+Total Unit
+Total Amount
+Printing Settings
+Settings saved successfully
+An error occurred. Please try again
+Printer Type
+Paper Size
+Auto Print
+Print receipt automatically after order has been placed/received
+Save
+No printer found
+No printer is currently connected
+Order Print Out
+Error sharing printout
+system
+dark
+light
+English
+Arabic
+French
+Spanish
+Korean
+German
+Portuguese
+Hindi
+Turkish
+Russian
+Myanmar
+Chinese
+Japanese
+Payment Pending
+Until payment is made, the order should not be processed.
+There is no printer is currently connected
+Connection Failed. Please try again or select another printer
+Customer Pickup
+Payment Method
+Error generating printout
